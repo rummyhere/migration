@@ -1,4 +1,0 @@
-<y:TextContainer 
-	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-	xmlns:y="clr-namespace:Samples;assembly=HelloWorldRuntime"
-	Text="Hello World!" />

@@ -1,1 +1,0 @@
-Install KendoUI Core styles here

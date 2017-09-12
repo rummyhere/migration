@@ -1,1 +1,0 @@
-Install KendoUI Typescript definitions here
